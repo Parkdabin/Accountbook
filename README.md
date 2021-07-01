@@ -1,6 +1,6 @@
 # Accountbook
 ## Flutter를 이용한 가계부 앱
-## VSCODE를 이용해 개발하였으며 IOS배포 설정은 하지 않았습니다.
+### VSCODE를 이용해 개발하였으며 IOS배포 설정은 하지 않았습니다.
 
 
 ### 로그인과 회원가입은 FirebaseAuth를 사용하였습니다.
